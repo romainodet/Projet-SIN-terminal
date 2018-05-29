@@ -1,4 +1,4 @@
-#Acces cantine - Projet de BAC SIN STI2D                          
+# Acces cantine - Projet de BAC SIN STI2D                          
 ------------------------------------------------------------------------------------------------------------------------------------
 
 Système de gestion de file avec application mobile pour les élèves, interface web pour les surveillants.
@@ -8,7 +8,7 @@ Matériel necessaire :
   - Module SMS
   - Serveur web avec BDD
 
-#Canteen access - Bac Project STI2D SIN   
+# Canteen access - Bac Project STI2D SIN   
 ------------------------------------------------------------------------------------------------------------------------------------
 System to manage a queue with an mobile app for students, web interface for supervisor
 
