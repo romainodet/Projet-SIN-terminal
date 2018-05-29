@@ -7,6 +7,9 @@ Matériel necessaire :
   - Lecteur de code barre
   - Module SMS
   - Serveur web avec BDD
+  - Arduino Card
+  - ServoMoteur (simule le portique)
+  
 
 # Canteen access - Bac Project STI2D SIN   
 ------------------------------------------------------------------------------------------------------------------------------------
@@ -16,3 +19,5 @@ Hardware needed :
   - Barcode Scanner
   - SMS module
   - Webserver with datebase
+  - Arduino Card
+  - Servomotor (Simulate the gantries)
