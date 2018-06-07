@@ -1,0 +1,3 @@
+$md = stripslashes($_REQUEST['md']);
+  //escapes special characters in a string
+$md = mysqli_real_escape_string($con,$md);
